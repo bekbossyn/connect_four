@@ -1,4 +1,4 @@
-# Four Chips Game
+# Connect four Game
 # Connect 4 chips.
 ### Two players make moves by turns.
 on each turn get blue or red color chip<br>
