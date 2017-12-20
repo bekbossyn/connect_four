@@ -1,5 +1,10 @@
 # Connect four Game
 # Connect 4 chips.
+
+## How to set up:
+* git clone https://github.com/bekbossyn/connect_four.git
+* in browser open `main.html` file.
+
 ### Two players make moves by turns.
 on each turn get blue or red color chip<br>
 wins player, who first collects `4` chips of the `same` color `in a row`,<br>
